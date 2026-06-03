@@ -1,4 +1,4 @@
-#Detail -Minimum Swaps to Move Zeros to End
+//Detail -Minimum Swaps to Move Zeros to End
 class Solution {
     public int minimumSwaps(int[] nums) {
         int c=0;
