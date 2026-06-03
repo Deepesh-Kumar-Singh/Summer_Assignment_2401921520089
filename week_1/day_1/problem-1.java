@@ -1,4 +1,4 @@
-# Detail - Minimum Cost of Buying Candies With Discount
+//Detail - Minimum Cost of Buying Candies With Discount
 class Solution {
     public int minimumCost(int[] cost) {
         Arrays.sort(cost);
