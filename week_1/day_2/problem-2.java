@@ -1,4 +1,4 @@
-# Detail -Earliest Finish Time for Land and Water Rides I
+// Detail -Earliest Finish Time for Land and Water Rides I
 class Solution {
     public int earliestFinishTime(int[] startL, int[] durL, int[] startW, int[] durW) {
         int minL = 3000, minW = minL, res = minW;
