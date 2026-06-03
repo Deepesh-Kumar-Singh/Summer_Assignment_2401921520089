@@ -1,4 +1,4 @@
-# Detail - Minimum Operations to Make Array Modulo Alternating I
+//Detail - Minimum Operations to Make Array Modulo Alternating I
 class Solution {
 
     private int cost(int num, int targetRem, int k) {
